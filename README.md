@@ -1,5 +1,5 @@
 # compsol 💻📈
-compsol : | Computing Solutions | Application Performance Upgrade, Workload, EC2, Instance Type, Session Manager, Console |
+compsol : | Computing Solutions | Application Performance Upgrade, Workload, EC2, Instance Type, AWS Systems Manager (SSM), Session Manager, Console |
 
 
 ## Objectives
