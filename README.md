@@ -9,7 +9,12 @@ compsol : | Computing Solutions | Application Performance Upgrade, Workload, EC2
 - Change EC2 instance type to larger (m4.large) general purpose instance
 
 
-## Computing Solutions 
+## Similar Skills Set
+- Azure : Azure Virtual Machines (VMs)
+- GCP : Compute Engine VM Instances
+
+
+## Computing Solutions (Elastic Compute Cloud)
 
 ![compsol001.png](./media/compsol001.png)
 
